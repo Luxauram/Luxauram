@@ -1,67 +1,74 @@
 # Oh, Ciao!  Welcome to My GitHub Profile 👋
 
 ## 🚀 About Me
-I'm Luca, a software engineer with a passion for problem-solving and a solid foundation in computer science. With some industry experience under my belt, I dive into software architecture with a mix of confidence and eagerness to learn. While I've had my successes in solving complex challenges, I also recognize the importance of continuous growth and refinement. Each project brings new insights and opportunities for improvement, and I'm excited to tackle them head-on.
+I'm Luca, a 360-degree software engineer with a passion for problem-solving and a solid foundation in computer science. With some industry experience under my belt, I dive into software architecture, cloud systems, and creative development with a mix of confidence and eagerness to learn. While I've had my successes in solving complex challenges across web development, game development, and cybersecurity, I also recognize the importance of continuous growth and refinement. Each project brings new insights and opportunities for improvement, and I'm excited to tackle them head-on.
 
 ## 💻 Tech Stack
-### Cloud Services ![Cloud](https://img.shields.io/badge/-Cloud%20Services-blue):
-- AWS, Azure, Google Cloud
+### Cloud Architecture & DevOps ![Cloud](https://img.shields.io/badge/-Cloud%20Architecture%20%26%20DevOps-blue):
+- **Cloud Services:** AWS (Cloud Architect level)
+- **CI/CD & Orchestration:** Jenkins, ArgoCD, Docker, Kubernetes
+- **Monitoring & Analytics:** ELK Stack, Prometheus, Grafana
+- **Service Mesh:** Istio
+- **Message Brokers:** RabbitMQ, Kafka
 
-### Web Development ![Web Development](https://img.shields.io/badge/-Web%20Development-green):
-- **HTML & Markup Languages:** HTML, XML, Markdown
+### Programming Languages ![Programming Languages](https://img.shields.io/badge/-Programming%20Languages-important):
+- **Web Technologies:** JavaScript, TypeScript
+- **Backend Languages:** Java, Python, C/C++, C#, PHP
+- **Game Development:** C++ (Unreal Engine), C# (Unreal Engine)
+
+### Frontend Development ![Frontend Development](https://img.shields.io/badge/-Frontend%20Development-green):
+- **Core Technologies:** HTML, XML, Markdown
 - **CSS Frameworks:** Bootstrap, Tailwind, Bulma, Materialize, AntDesign, Semantic-UI, Normalize, Styled-Components
+- **JavaScript Frameworks:** React, Next.js, Angular
 - **Static Site Generators:** Astro, HAML, Pug / Jade
 
-### JavaScript Frameworks & Libraries ![JavaScript Frameworks & Libraries](https://img.shields.io/badge/-JavaScript%20Frameworks%20%26%20Libraries-important):
-- **Core JavaScript:** JavaScript, TypeScript
-- **JavaScript Libraries:** jQuery, EJS, Mustache
-- **Frontend Frameworks:** React, Vue, Angular
-- **State Management:** Redux, React-Redux
-- **UI Frameworks:** Material-UI, Vue, Angular, React-Bootstrap
-
 ### Backend Development ![Backend Development](https://img.shields.io/badge/-Backend%20Development-yellow):
-- **Node.js Frameworks:** Express.js, Next.js
-- **Java Frameworks:** SpringBoot
-- **PHP Frameworks:** Laravel, Basic, Advance, PhpMyAdmin, Cpanel, Vite, Aimeos
+- **Node.js Ecosystem:** Express.js, Nest.js
+- **Java Frameworks:** Spring Boot (full ecosystem)
+- **PHP Frameworks:** Laravel
+- **Python Frameworks:** Flask
 
 ### Mobile App Development ![Mobile App Development](https://img.shields.io/badge/-Mobile%20App%20Development-orange):
 - React Native, Expo, Flutter
 
-### Databases ![Databases](https://img.shields.io/badge/-Databases-red):
-- **SQL Databases:** SQL, MySQL
-- **NoSQL Databases:** MongoDB, Redis, Firebase, AppWrite
+### Database Systems ![Databases](https://img.shields.io/badge/-Databases-red):
+- **SQL Databases:** MySQL, PostgreSQL
+- **NoSQL Databases:** MongoDB, DynamoDB
+- **Graph Databases:** Neo4j
+- **Key-Value Stores:** Redis
 
-### DevOps & Microservices ![DevOps & Microservices](https://img.shields.io/badge/-DevOps%20%26%20Microservices-lightgrey):
-- **Version Control:** Git, GitLab, GitFlow
-- **Containerization:** Docker, Kubernetes
+### Game Development ![Game Development](https://img.shields.io/badge/-Game%20Development-purple):
+- **Game Engines:** Unreal Engine, Godot
+- **Languages:** C++, C#
 
-### Content Management Systems (CMS) ![CMS](https://img.shields.io/badge/-CMS-yellowgreen):
-- Wordpress, WooCommerce, PrestaShop, Magento, Joomla!, Drupal, Bubble.io, Shopify
+### Data Analysis & Visualization ![Data Analysis](https://img.shields.io/badge/-Data%20Analysis%20%26%20Visualization-lightgreen):
+- **Python Libraries:** Pandas, NumPy, Matplotlib, Seaborn
+- **Business Intelligence:** PowerBI
 
-### Design Software & Tools ![Design Software & Tools](https://img.shields.io/badge/-Design%20Software%20%26%20Tools-blueviolet):
-- Adobe XD, Figma, Sketch, Invision
+### UI/UX Design ![Design Software & Tools](https://img.shields.io/badge/-UI%2FUX%20Design-blueviolet):
+- **Design Tools:** Figma
+- **Adobe Creative Suite:** Photoshop, XD, After Effects, Illustrator, InDesign, Lightroom, Premiere Pro, Acrobat Pro, Dreamweaver
 
-### Adobe Suite ![Adobe Suite](https://img.shields.io/badge/-Adobe%20Suite-critical):
-- Photoshop, Lightroom, Premiere Pro, Premier Rush, After Effects, InDesign, Acrobat Pro, Dreamweaver
-
-### Microsoft 365 ![Microsoft 365](https://img.shields.io/badge/-Microsoft%20365-success):
-- Teams, Word, Excel, PowerPoint, Outlook, OneNote, OneDrive
-
-### Operating Systems & Virtualization ![Operating Systems & Virtualization](https://img.shields.io/badge/-Operating%20Systems%20%26%20Virtualization-informational):
-- **Operating Systems:** Windows, Mac, Linux, Ubuntu, Kali Linux
-- **Virtualization:** VMware, VirtualBox, Parallel Desktop
-
-### Ethical Hacking ![Ethical Hacking](https://img.shields.io/badge/-Ethical%20Hacking-lightblue):
-- **Hacking Skills:** Social Engineering, MITM
+### Cybersecurity & Network Security ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity%20%26%20Network%20Security-lightblue):
+- **Security Assessment:** Ethical Hacking, Penetration Testing
+- **Network Security:** Network security assessment, Vulnerability analysis
 - **Hacking Tools:** net discover, zenmap, ARP Spoof, BetterCap, Wireshark, Maltego, TheFatRat, ZLogger, BeeLogger, LaZagne
 - **Hacking Frameworks:** Metasploit, Veil, Powershell-Empire
 
+### Operating Systems & Virtualization ![Operating Systems & Virtualization](https://img.shields.io/badge/-Operating%20Systems%20%26%20Virtualization-informational):
+- **Operating Systems:** Windows, macOS, Linux, Ubuntu, Arch, Kali Linux
+- **Virtualization:** VMware, VirtualBox, Parallel Desktop
+
+### Productivity & CMS ![Productivity & CMS](https://img.shields.io/badge/-Productivity%20%26%20CMS-success):
+- **Microsoft Office Suite:** Teams, Word, Excel, PowerPoint, Outlook, OneNote, OneDrive
+- **Content Management:** WordPress, Shopify
+
 
 ## 🌟 Expertise
-I specialize in full-stack development, crafting exceptional digital experiences from start to finish. As both a Web Developer and Web Designer, I focus on creating visually appealing and user-friendly interfaces. Additionally, I have expertise in mobile app development for both iOS and Android platforms. My commitment lies in delivering scalable, efficient, and maintainable solutions that drive business success.
+I specialize in 360-degree software development, crafting exceptional digital experiences from cloud architecture to user interfaces. As a Software Engineer, Cloud Architect, UI/UX Designer, and Game Developer, I focus on creating scalable, secure, and visually appealing solutions. My expertise spans enterprise software development, mobile applications, game development, and cybersecurity. My commitment lies in delivering robust, efficient, and maintainable solutions that drive business success while maintaining the highest standards of security and user experience.
 
 ## 🌱 Continuous Learning
-As an enthusiast of diverse programming languages and technology, I am committed to staying at the forefront of advancements in the ever-evolving tech landscape. Currently, I'm immersed in broadening my skills in machine learning and pioneering novel methods for data analysis and predictive modeling. My dedication to ongoing learning empowers me to confidently tackle the dynamic challenges posed by the digital realm.
+As an enthusiast of diverse programming languages and technology, I am committed to staying at the forefront of advancements in the ever-evolving tech landscape. Currently, I'm immersed in broadening my skills in machine learning, advanced cloud architectures, and pioneering novel methods for data analysis and predictive modeling. My dedication to ongoing learning empowers me to confidently tackle the dynamic challenges posed by the digital realm, from enterprise-level microservices to cutting-edge game development.
 
 ## 💼 My Gumroad Profile
 
@@ -88,10 +95,3 @@ Looking for a developer who speaks fluent code and sarcasm? You found me! Feel f
 
 ## 🙏 Thank You
 Ah, you've reached the end of my GitHub profile. Congratulations! Your curiosity is truly commendable. Thank you for taking the time to explore. I'm genuinely excited about the opportunity to form meaningful connections and contribute to innovative projects. Here's to collaborating on something truly game-changing. Cheers!
-
-
-
-
-
-
-
